@@ -1,0 +1,23 @@
+{
+  "routes":
+  {
+    "":
+    {
+      "Controller":"MainController",
+      "Action": "index"
+    },
+    "register":
+    {
+      "Controller":"RegisterController",
+      "Action": "main"
+    }
+  },
+  "db":
+  {
+    "name": "root",
+    "dbName": "students",
+    "password": "qwerty",
+    "host": "localhost",
+    "charset": "utf8mb4"
+  }
+}

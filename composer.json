@@ -1,0 +1,11 @@
+{
+    "name": "ryabo/site1.com",
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "site\\" : ""
+        }
+    }
+}
