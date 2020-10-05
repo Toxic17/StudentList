@@ -32,8 +32,6 @@ function pagHelp() {
     }
 }
 
-console.log()
-
 function checkLink(name) {
     let upPointer = document.createElement("span");
     upPointer.innerHTML = "&#9660";
