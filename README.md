@@ -11,3 +11,7 @@
 1. `git clone https://github.com/Toxic17/StudentList.git`;
 2. Задать свои данные в файле config.json;
 3. `composer inistall`.
+
+## Тестирование
+Для тестирования используется класс `app/helpers/Tester.php`, для его работы необходима библиотека Faker
+`https://github.com/fzaninotto/Faker`
