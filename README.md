@@ -7,5 +7,7 @@
 3. Поддержка пакетного менеджера [Composer](https://getcomposer.org/);
 4. Сервер [Apache](https://httpd.apache.org/download.cgi).
 
-#Установка
-git clone `https://github.com/Toxic17/StudentList`
+##Установка
+1.`git clone https://github.com/Toxic17/StudentList`;
+2.Задать свои данные в файле config.json
+3.`composer inistall`
