@@ -8,4 +8,4 @@
 4. Сервер [Apache](https://httpd.apache.org/download.cgi).
 
 #Установка
-git clone «https://github.com/Toxic17/StudentList»
+git clone `https://github.com/Toxic17/StudentList`
