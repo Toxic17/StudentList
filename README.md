@@ -8,6 +8,6 @@
 4. Сервер [Apache](https://httpd.apache.org/download.cgi).
 
 ## Установка
-1.`git clone https://github.com/Toxic17/StudentList`;
-2.Задать свои данные в файле config.json;
-3.`composer inistall`.
+1. `git clone https://github.com/Toxic17/StudentList`;
+2. Задать свои данные в файле config.json;
+3. `composer inistall`.
