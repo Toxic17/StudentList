@@ -6,3 +6,6 @@
 2. [MySQL](https://www.mysql.com/downloads/) База данных;
 3. Поддержка пакетного менеджера [Composer](https://getcomposer.org/);
 4. Сервер [Apache](https://httpd.apache.org/download.cgi).
+
+#Установка
+git clone *https://github.com/Toxic17/StudentList*
